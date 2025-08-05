@@ -51,10 +51,19 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/alizholdybekuly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/alizholdybekuly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="40" height="40" alt="LinkedIn" hspace="8" />
   </a>
-</div>
+  <a href="https://github.com/ali-zholdybek" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="40" height="40" alt="GitHub" hspace="8" />
+  </a>
+  <a href="https://t.me/ali_code" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg"
+         width="40" height="40" alt="Telegram" hspace="8" />
+  </a>
+</p>
 
 ###
