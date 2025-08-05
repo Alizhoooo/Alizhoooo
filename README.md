@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">My name is Ali  and I'm a Full-stack/Frontend developer</p>
+<p align="center">My name is Ali  and I'm a Full-stack/Frontend developer</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
